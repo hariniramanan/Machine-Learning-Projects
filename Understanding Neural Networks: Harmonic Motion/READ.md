@@ -1,0 +1,1 @@
+On my roadmap to understand and implement Phyisics Informed Nueral Networks for a specific question I want to solve later, this is my work on messing around with neural networks for a simple harmonic motion.
